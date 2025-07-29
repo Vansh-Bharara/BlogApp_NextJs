@@ -1,3 +1,5 @@
+"use client"
+
 import Link from "next/link"
 import {buttonVariants } from "../ui/button"
 import {RegisterLink, LoginLink, LogoutLink} from "@kinde-oss/kinde-auth-nextjs/components";
